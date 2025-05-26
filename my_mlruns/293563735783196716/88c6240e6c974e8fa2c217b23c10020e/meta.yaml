@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\DELL\OneDrive\Escritorio\Especializacion\Producto_datos\PRE-08-mlflow-tracking-local-carolinacgj\my_mlruns/293563735783196716/88c6240e6c974e8fa2c217b23c10020e/artifacts
+end_time: 1748223776085
+entry_point_name: ''
+experiment_id: '293563735783196716'
+lifecycle_stage: active
+run_id: 88c6240e6c974e8fa2c217b23c10020e
+run_name: knn_11414f1e
+run_uuid: 88c6240e6c974e8fa2c217b23c10020e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748223775955
+status: 3
+tags: []
+user_id: DELL

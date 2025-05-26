@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\DELL\OneDrive\Escritorio\Especializacion\Producto_datos\PRE-08-mlflow-tracking-local-carolinacgj\my_mlruns/293563735783196716/95491aa3511c4adf8d25c98dd735a655/artifacts
+end_time: 1748223845202
+entry_point_name: ''
+experiment_id: '293563735783196716'
+lifecycle_stage: active
+run_id: 95491aa3511c4adf8d25c98dd735a655
+run_name: elasticnet_39e69614
+run_uuid: 95491aa3511c4adf8d25c98dd735a655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748223845111
+status: 3
+tags: []
+user_id: DELL

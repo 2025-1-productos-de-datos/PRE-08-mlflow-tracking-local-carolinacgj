@@ -1,0 +1,6 @@
+artifact_location: file:C:\Users\DELL\OneDrive\Escritorio\Especializacion\Producto_datos\PRE-08-mlflow-tracking-local-carolinacgj\my_mlruns/293563735783196716
+creation_time: 1748223775512
+experiment_id: '293563735783196716'
+last_update_time: 1748223775512
+lifecycle_stage: active
+name: wine_quality_experiment
